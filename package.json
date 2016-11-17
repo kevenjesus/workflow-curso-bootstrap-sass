@@ -1,0 +1,21 @@
+{
+  "name": "workflow-sass-gulp",
+  "version": "1.0.0",
+  "description": "workflow sass with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "workflow"
+  ],
+  "author": "Keven Jesus",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
